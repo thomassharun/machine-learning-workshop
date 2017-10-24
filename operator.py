@@ -1,0 +1,10 @@
+a=1
+b=2
+e=3
+d=4
+f=7
+print(f+e)
+print(d-a)
+print(f/d)
+print(f*d)
+print(d%3)

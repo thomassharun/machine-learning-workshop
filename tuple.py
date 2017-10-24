@@ -1,0 +1,5 @@
+t1=()
+t2=(1,2,43,6)
+print(t1)
+print(t2)
+print(max(t2))
